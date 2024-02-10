@@ -9,7 +9,7 @@ Assigment 1 :
 
 Assignment 2 :
 The initial steps remain the same as in Assignment 1 for steps 1-3. However, in this Assignment 2, we'll be using different libraries.
-4. If you haven't installed Selenium yet, you can do so in the terminal of Visual Studio Code.
+1. If you haven't installed Selenium yet, you can do so in the terminal of Visual Studio Code.
 5. To install the Selenium library, type the command pip3 install selenium in the terminal and press Enter (or Return on Mac).
 6. Choose the appropriate webdriver based on your frequently used browser (e.g., ChromeDriver for Google Chrome, GeckoDriver for Mozilla Firefox).
 7. Configure the webdriver to work with your chosen browser.

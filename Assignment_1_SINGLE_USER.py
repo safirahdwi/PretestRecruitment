@@ -12,6 +12,7 @@ assert response.status_code == 200
 
 # Parse the response body
 result = response.json()
+print(result)
 
 # Get the message from the response
 emailuser = result['data']['email']

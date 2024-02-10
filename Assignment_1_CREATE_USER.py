@@ -17,6 +17,7 @@ assert response.status_code == 200
 
 # Parse the response JSON
 result = response.json()
+print(result)
 
 # Extract the token from the response
 message = result['token']
